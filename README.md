@@ -1,24 +1,24 @@
 # Expense Tracker
 
 ## Overview
-[TODO: Write 2-3 sentences describing what your app does and why it's useful]
+My app will track expenses for the user. This is useful because a lot of time people spend money and do not know where their money is going. This app helps users keep track of all their expenses. This will also allow users to reflect on their spending.
 
 ## Problem Statement
 [TODO: Describe the problem your app solves. Consider:]
-- What frustrates people about tracking expenses?
-- Why do existing solutions fall short?
-- What specific pain points will you address?
+My app solves the issue of how hard it is for a person to personally track their expensives. Tracking expenses can be difficult, espcially if you don't have the time. This app will eliminate some fo the difficulties.  
 
 ## Target Users
-[TODO: List 3-4 types of users who would benefit from your app]
+-College Students
+-Young People
+-People struggling finacially
 
 ## Core Features (MVP)
 [TODO: List 5-6 essential features for version 1]
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Add Expense
+- [ ] Caluclate total expenses
+- [ ] Remove Expense
+- [ ] Edit Expense
+- [ ] Put expense into specific category it falls into
 
 ## Technical Stack
 [TODO: Fill in this table with your technology choices and reasoning]
